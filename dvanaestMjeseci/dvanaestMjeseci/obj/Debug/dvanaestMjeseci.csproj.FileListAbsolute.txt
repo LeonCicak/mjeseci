@@ -1,0 +1,10 @@
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\bin\Debug\dvanaestMjeseci.exe.config
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\bin\Debug\dvanaestMjeseci.exe
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\bin\Debug\dvanaestMjeseci.pdb
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.Form1.resources
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.Properties.Resources.resources
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.csproj.GenerateResource.cache
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.exe
+C:\Users\Učenik\source\repos\dvanaestMjeseci\dvanaestMjeseci\obj\Debug\dvanaestMjeseci.pdb
